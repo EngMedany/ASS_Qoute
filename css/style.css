@@ -1,0 +1,26 @@
+.header{
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+
+.head{
+    font-size: 40px;
+}
+
+.button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    margin: auto;
+}
+
+.home{
+background-color: #355C7D;    
+}
+
+.cardd{
+    background-color: cadetblue;
+}
+p{
+    font-size: 1.6rem;
+}
